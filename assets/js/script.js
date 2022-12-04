@@ -79,6 +79,15 @@ const musicData = [
     artist: "杨丞琳",
     musicPath: "./assets/music/致十年后的我.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-1.jpg",
+    posterUrl: "./assets/images/poster-1.jpg",
+    title: "飞鸟和蝉",
+    album: "My Playlist",
+    year: 2022,
+    artist: "任然",
+    musicPath: "./assets/music/飞鸟和蝉.mp3",
+  },
 ];
 
 
