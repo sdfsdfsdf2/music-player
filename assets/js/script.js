@@ -52,6 +52,24 @@ const musicData = [
     artist: "No Spirit",
     musicPath: "./assets/music/music-5.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-1.jpg",
+    posterUrl: "./assets/images/poster-1.jpg",
+    title: "左边",
+    album: "No Spirit",
+    year: 2022,
+    artist: "杨丞琳",
+    musicPath: "./assets/music/杨丞琳 - 左边.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-1.jpg",
+    posterUrl: "./assets/images/poster-1.jpg",
+    title: "雨爱",
+    album: "No Spirit",
+    year: 2022,
+    artist: "杨丞琳",
+    musicPath: "./assets/music/杨丞琳 - 雨爱.mp3",
+  },
 ];
 
 
