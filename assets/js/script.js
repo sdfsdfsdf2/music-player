@@ -59,7 +59,7 @@ const musicData = [
     album: "My Playlist",
     year: 2022,
     artist: "杨丞琳",
-    musicPath: "./assets/music/杨丞琳 - 左边.mp3",
+    musicPath: "https://cdn.jsdelivr.net/gh/sdfsdfsdf2/music-player@master/assets/music/杨丞琳 - 左边.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-1.jpg",
