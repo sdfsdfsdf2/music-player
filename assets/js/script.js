@@ -8,8 +8,8 @@
 
 const musicData = [
    {
-    backgroundImage: "./assets/images/yanyuan.jpg",
-    posterUrl: "./assets/images/yanyuan.jpg",
+    backgroundImage: "./assets/images/yanyuan.png",
+    posterUrl: "./assets/images/yanyuan.png",
     title: "演员remix",
     album: "My Playlist",
     year: 2023,
