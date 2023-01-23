@@ -7,6 +7,15 @@
  */
 
 const musicData = [
+   {
+    backgroundImage: "./assets/images/yanyuan.jpg",
+    posterUrl: "./assets/images/yanyuan.jpg",
+    title: "演员remix",
+    album: "My Playlist",
+    year: 2023,
+    artist: "Maxone & Maxone",
+    musicPath: "https://cdn.jsdelivr.net/gh/sdfsdfsdf2/music-player@master/assets/music/演员remix.mp3",
+  },
   {
     backgroundImage: "./assets/images/poster-1.jpg",
     posterUrl: "./assets/images/poster-1.jpg",
